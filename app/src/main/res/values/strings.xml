@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roler</string>
+    <string name="roll_dice">player1</string>
+    <string name="dice_image">Dice_image</string>
+    <string name="player1">Player1</string>
+    <string name="player2">player2</string>
+    <string name="tap_to_play">Tap To Play</string>
+</resources>
